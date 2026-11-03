@@ -4,7 +4,7 @@ Aplikacja na Windows do nauki z quizów, w stylu Testownika. Działa w całości
 
 ## Instalacja
 
-1. Pobierz **Bazownik-Setup-3.7.6.exe** z zakładki **[Releases](../../releases/latest)**. Jest tam też wersja przenośna bez instalacji (*Bazownik-Portable*).
+1. Pobierz **Bazownik-Setup-3.8.0.exe** z zakładki **[Releases](../../releases/latest)**. Jest tam też wersja przenośna bez instalacji (*Bazownik-Portable*).
 2. Uruchom pobrany plik. Windows może pokazać okno „System Windows ochronił komputer”, bo instalator nie ma płatnego podpisu cyfrowego. Kliknij **Więcej informacji → Uruchom mimo to**.
 3. Przejdź przez instalator. Na pulpicie i w menu Start pojawi się skrót **Bazownik**.
 
@@ -32,6 +32,11 @@ Aplikacja na Windows do nauki z quizów, w stylu Testownika. Działa w całości
 - Przycisk **„Miałem rację”** po pomyłce.
 - Zaznaczanie błędów w odpowiedziach otwartych.
 - Skróty klawiszowe, m.in. **1–9** wybór, **Enter** sprawdź / dalej, **G** / **Z** oznaczenia, **E** edycja, **K** kopiuj.
+
+**Synchronizacja między komputerami (OneDrive)**
+- Profil z postępem, serią dni i statystykami zapisujesz w wybranym folderze OneDrive.
+- Każdą bazę zapisujesz osobno, w wybranym miejscu w OneDrive. Na drugim komputerze dodajesz te same pliki.
+- Przy starcie i zamykaniu pasek postępu pokazuje rzeczywisty stan synchronizacji plików. Aplikacja zamyka się dopiero po wysłaniu zmian.
 
 **Wygląd i statystyki**
 - Wykresy czasu nauki, skuteczności i opanowania quizów.
